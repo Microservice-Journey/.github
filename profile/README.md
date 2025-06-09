@@ -6,7 +6,7 @@
 
 <p align="center">Your path through the microservice tool ecosystem.</p>
 
-<p>
+<p align="center">
     <a href="https://microservice-journey.io/" target="_blank">
         https://microservice-journey.io
     </a>
