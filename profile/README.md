@@ -12,7 +12,7 @@
     </a>
 </h2>
 
-<table border="0">
+<table>
     <tr>
         <td width="50%">
             <ul>
