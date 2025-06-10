@@ -28,8 +28,9 @@
         <td width="50%">
             <ul>
                 <li>One web page per tool that includes all relevant project information, like releases, license, project languages etc.</li>
-                <li>Create notes and reminders.</li>
+                <li>Coming soon: Create notes and reminders.</li>
                 <li>Coming soon: Create custom stacks to organize the tool space into groups that are relevant to your infrastructure.</li>
+                <li>Coming soon: Track your learning progress for each tool in up to ten areas.</li>
             </ul>
         </td>
         <td width="50%">
