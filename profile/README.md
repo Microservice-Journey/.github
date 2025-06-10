@@ -4,7 +4,7 @@
     </a>
 </h1>
 
-<h2 align="center">Your path through the microservice tool ecosystem.</h2>
+<h2 align="center">Your path through the microservice tool ecosystem</h2>
 
 <h2 align="center">
     <a href="https://microservice-journey.io/" target="_blank">
