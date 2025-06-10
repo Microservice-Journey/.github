@@ -31,7 +31,7 @@
                 <li>Coming soon: Create notes and reminders.</li>
                 <li>Coming soon: Create custom stacks to organize the tool space into groups that are relevant to your infrastructure.</li>
                 <li>Coming soon: Track your learning progress for each tool in up to ten areas.</li>
-                <li>Coming soon: Track CVEs and the SBOM for each tool or you entire stack.</li>
+                <li>Coming soon: Track CVEs and the SBOM for each tool or your entire stack.</li>
             </ul>
         </td>
         <td width="50%">
