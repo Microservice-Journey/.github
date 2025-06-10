@@ -4,13 +4,13 @@
     </a>
 </h1>
 
-<p align="center">Your path through the microservice tool ecosystem.</p>
+<h2 align="center">Your path through the microservice tool ecosystem.</h2>
 
-<p align="center">
+<h2 align="center">
     <a href="https://microservice-journey.io/" target="_blank">
         https://microservice-journey.io
     </a>
-</p>
+</h2>
 
 <table border="0">
     <tr>
