@@ -24,4 +24,17 @@
             <img width="400" alt="image" src="https://github.com/user-attachments/assets/0377a45f-2e0b-463a-ba06-5766c68ea884" /> 
         </td>
     </tr>
+    <tr>
+        <td width="50%">
+            <ul>
+                <li>One web page per tool that includes all relevant project information, like releases, license, project languages etc.</li>
+                <li>Coming soon: Create notes and remindes.</li>
+                <li>Coming soon: Create custom stacks to organize the tool space into groups that are relevant to your infrastructure.</li>
+            </ul>
+        </td>
+        <td width="50%">
+            <img width="941" alt="image" src="https://github.com/user-attachments/assets/d4a6ad1e-1a54-4551-acfe-1006fc107e32" />
+        </td>
+    </tr>
 </table>
+
