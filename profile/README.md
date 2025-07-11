@@ -28,23 +28,23 @@
         <td width="50%">
             <ul>
                 <li>One web page per tool that includes all relevant project information, like releases, license, project languages etc.</li>
-                <li>Coming soon: Create custom stacks to organize the tool space into groups that are relevant to your infrastructure.</li>
+                <li>Create custom stacks to organize the tool space into groups that are relevant to your infrastructure.</li>
                 <li>Coming soon: Track CVEs and the SBOM for each tool or your entire stack.</li>
             </ul>
         </td>
         <td width="50%">
-            <img width="941" alt="Tool page" src="https://github.com/user-attachments/assets/d4a6ad1e-1a54-4551-acfe-1006fc107e32" />
+            <img width="400" alt="Tool page" src="https://github.com/user-attachments/assets/d4a6ad1e-1a54-4551-acfe-1006fc107e32" />
         </td>
     </tr>
     <tr>
         <td width="50%">
             <ul>
-                <li>Coming soon: Create notes and reminders.</li>
-                <li>Coming soon: Track your learning progress for each tool in up to ten areas.</li>
+                <li>Create notes and reminders.</li>
+                <li>Track your learning progress for each tool in up to ten areas.</li>
             </ul>
         </td>
         <td width="50%">
-            <img width="940" alt="Notes, reminders, learning progress" src="https://github.com/user-attachments/assets/d01a5f95-dad4-4bed-b6f5-2cd5da123a3b" />
+            <img width="400" alt="Notes, reminders, learning progress" src="https://github.com/user-attachments/assets/d01a5f95-dad4-4bed-b6f5-2cd5da123a3b" />
         </td>
     </tr>
 </table>
